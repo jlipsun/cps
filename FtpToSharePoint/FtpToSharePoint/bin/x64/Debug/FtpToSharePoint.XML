@@ -1,0 +1,112 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>FtpToSharePoint</name>
+    </assembly>
+    <members>
+        <member name="M:FtpToSharePoint.Program.Main">
+            <summary>
+            The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:FtpToSharePoint.FtpToSpService">
+            <summary>
+            FtpToSpService is a Windows service that monitors a directory for new files(assumed to be XMLs). These files are validated agianst an XSD and added to a SharePoint list depending on validity. Each file is then moved into the archive subdirectory
+            </summary>
+        </member>
+        <member name="F:FtpToSharePoint.FtpToSpService.components">
+            <summary> 
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.InitializeComponent">
+            <summary> 
+            Required method for Designer support - do not modify 
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.#ctor">
+            <summary>
+            Initializes FtpToSpService to monitor <c>AppSettings["inbox"]</c>
+            </summary>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.OnStart(System.String[])">
+            <summary>
+            Called when service starts. Allows _ftpWatcher to raise events
+            </summary>
+            <param name="args"></param>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.beat(System.Object,System.Timers.ElapsedEventArgs)">
+            <summary>
+            Creates a heartbeat file with a timestamp to let you know if the service is still alive.
+            </summary>
+            <param name="source"></param>
+            <param name="e"></param>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.OnPause">
+            <summary>
+            Called when service is paused. 
+            </summary>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.OnContinue">
+            <summary>
+            Called when service is resumed from pause state.
+            </summary>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.OnStop">
+            <summary>
+            Called when service is stopped.
+            </summary>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService._ftpWatcher_Created(System.Object,System.IO.FileSystemEventArgs)">
+            <summary>
+            Called when FileSystemWatcher raises an event(any changes to a file or directory). 
+            
+            Depending on validation results agianst <c>AppSettings["schema"]</c>, a new file is added to either <c>AppSettings["ValidList"]</c> or <c>AppSettings["InvalidList"]</c>
+            After processing, file is moved into "archive" subdirectory
+            </summary>
+            <param name="sender">Object that raised the event that triggered the function call</param>
+            <param name="e">Event arguments</param>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.Validate(System.String,System.String)">
+            <summary>
+            Validates a given XML agianst a given XSD
+            </summary>
+            <param name="xmlUri">XML to be validated</param>
+            <param name="xsdUri">XSD used for validation</param>
+            <returns>
+            Returns true if valid, false if invalid 
+            </returns>
+        </member>
+        <member name="M:FtpToSharePoint.FtpToSpService.addToSpList(System.String,System.String)">
+            <summary>
+            Adds a file to a SharePoint list. Uses SharePoint server and login detailed in <c>AppSettings</c>
+            </summary>
+            <param name="fileName">File to be added</param>
+            <param name="SPList">Sharepoint list to be added to. This list must be preexisting</param>
+        </member>
+        <member name="F:FtpToSharePoint.ProjectInstaller.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:FtpToSharePoint.ProjectInstaller.Dispose(System.Boolean)">
+            <summary> 
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:FtpToSharePoint.ProjectInstaller.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

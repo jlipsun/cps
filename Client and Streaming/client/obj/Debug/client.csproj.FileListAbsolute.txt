@@ -1,0 +1,38 @@
+C:\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\bin\client.exe.config
+C:\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\bin\client.exe
+C:\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\bin\client.pdb
+C:\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\Properties.Resources.resources
+C:\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\client.exe
+C:\WF_WCF_Samples\WCF\Basic\Contract\Service\Stream\CS\client\obj\Debug\client.pdb
+C:\Users\Philip\Documents\Visual Studio 2012\Projects\Streaming\client\bin\client.exe.config
+C:\Users\Philip\Documents\Visual Studio 2012\Projects\Streaming\client\obj\Debug\client.exe
+C:\Users\Philip\Documents\Visual Studio 2012\Projects\Streaming\client\obj\Debug\client.pdb
+C:\Users\Philip\Documents\Visual Studio 2012\Projects\Streaming\client\obj\Debug\Properties.Resources.resources
+C:\Users\Philip\Documents\Visual Studio 2012\Projects\Streaming\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Philip\Documents\Visual Studio 2012\Projects\Streaming\client\bin\client.exe
+C:\Users\Philip\Documents\Visual Studio 2012\Projects\Streaming\client\bin\client.pdb
+C:\Users\Administrator\Desktop\Streaming\client\bin\client.exe.config
+C:\Users\Administrator\Desktop\Streaming\client\obj\Debug\client.exe
+C:\Users\Administrator\Desktop\Streaming\client\obj\Debug\client.pdb
+C:\Users\Administrator\Desktop\Streaming\client\bin\client.exe
+C:\Users\Administrator\Desktop\Streaming\client\bin\client.pdb
+C:\Users\Administrator\Desktop\Streaming\client\obj\Debug\Properties.Resources.resources
+C:\Users\Administrator\Desktop\Streaming\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\client\bin\client.exe.config
+C:\Users\Administrator\Desktop\client\obj\Debug\client.exe
+C:\Users\Administrator\Desktop\client\obj\Debug\client.pdb
+C:\Users\Administrator\Desktop\client\bin\client.exe
+C:\Users\Administrator\Desktop\client\bin\client.pdb
+C:\Users\Administrator\Desktop\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\client\obj\Debug\Properties.Resources.resources
+C:\Users\Administrator\Desktop\client\obj\Debug\client.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\CS496 Philip\client\bin\client.exe.config
+C:\Users\Administrator\Desktop\CS496 Philip\client\obj\Debug\client.exe
+C:\Users\Administrator\Desktop\CS496 Philip\client\obj\Debug\client.pdb
+C:\Users\Administrator\Desktop\CS496 Philip\client\bin\client.exe
+C:\Users\Administrator\Desktop\CS496 Philip\client\bin\client.pdb
+C:\Users\Administrator\Desktop\CS496 Philip\client\obj\Debug\client.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\CS496 Philip\client\obj\Debug\Properties.Resources.resources
+C:\Users\Administrator\Desktop\CS496 Philip\client\obj\Debug\client.csproj.GenerateResource.Cache

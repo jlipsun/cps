@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpKI>
+
+  <HelpKINode Title="addToSpList method" Url="html/2bbf68cf-8df1-d7cc-8193-93da24638469.htm" />
+  <HelpKINode Title="Dispose method" Url="html/cc442ba0-b732-f8b1-45bb-a2e20bfd8386.htm" />
+  <HelpKINode Title="Dispose method" Url="html/d2a8e95a-2687-90fe-5f52-96499a8b3eec.htm" />
+  <HelpKINode Title="FtpToSharePoint namespace" Url="html/1676d5c3-11be-ae98-b57a-a1b1a5fa22cc.htm" />
+  <HelpKINode Title="FtpToSharePoint.FtpToSpService class" Url="html/41385bfc-4241-2318-b4a2-604948182928.htm" />
+  <HelpKINode Title="FtpToSharePoint.FtpToSpService class" Url="html/c247fef1-c77d-9174-8a3b-8d0a3e85b102.htm" />
+  <HelpKINode Title="FtpToSharePoint.ProjectInstaller class" Url="html/767dfe58-a40d-394b-5159-ccb0d2f9a8b9.htm" />
+  <HelpKINode Title="FtpToSharePoint.ProjectInstaller class" Url="html/b3dfebfa-1543-7a7c-e7ec-a259b8146c95.htm" />
+  <HelpKINode Title="FtpToSpService class" Url="html/41385bfc-4241-2318-b4a2-604948182928.htm" />
+  <HelpKINode Title="FtpToSpService class" Url="html/c247fef1-c77d-9174-8a3b-8d0a3e85b102.htm" />
+  <HelpKINode Title="FtpToSpService class">
+    <HelpKINode Title="about FtpToSpService class" Url="html/c247fef1-c77d-9174-8a3b-8d0a3e85b102.htm" />
+    <HelpKINode Title="all members" Url="html/41385bfc-4241-2318-b4a2-604948182928.htm" />
+    <HelpKINode Title="constructor" Url="html/1049143a-c61e-0843-c2ba-e4b8744511d3.htm" />
+    <HelpKINode Title="events" Url="html/bc4fd5e8-dcb1-b90a-39c2-1249cb563457.htm" />
+    <HelpKINode Title="methods" Url="html/55b67584-1172-bee8-cb47-91b4bc7b50c4.htm" />
+    <HelpKINode Title="properties" Url="html/c7614ced-cafc-7655-4973-c518e660f7dd.htm" />
+  </HelpKINode>
+  <HelpKINode Title="FtpToSpService.addToSpList method" Url="html/2bbf68cf-8df1-d7cc-8193-93da24638469.htm" />
+  <HelpKINode Title="FtpToSpService.Dispose method" Url="html/cc442ba0-b732-f8b1-45bb-a2e20bfd8386.htm" />
+  <HelpKINode Title="FtpToSpService.FtpToSpService constructor" Url="html/1049143a-c61e-0843-c2ba-e4b8744511d3.htm" />
+  <HelpKINode Title="FtpToSpService.OnContinue method" Url="html/6d01eba2-f8c5-f666-15e0-4706700ea9b6.htm" />
+  <HelpKINode Title="FtpToSpService.OnPause method" Url="html/0d307dd7-7689-d721-d697-448a2a753bb3.htm" />
+  <HelpKINode Title="FtpToSpService.OnStart method" Url="html/ec14cd3c-2f02-03fc-de68-efaa2a4fa5a4.htm" />
+  <HelpKINode Title="FtpToSpService.OnStop method" Url="html/2403ed89-befc-aa1d-e4e4-4619ffd3e6be.htm" />
+  <HelpKINode Title="OnContinue method" Url="html/6d01eba2-f8c5-f666-15e0-4706700ea9b6.htm" />
+  <HelpKINode Title="OnPause method" Url="html/0d307dd7-7689-d721-d697-448a2a753bb3.htm" />
+  <HelpKINode Title="OnStart method" Url="html/ec14cd3c-2f02-03fc-de68-efaa2a4fa5a4.htm" />
+  <HelpKINode Title="OnStop method" Url="html/2403ed89-befc-aa1d-e4e4-4619ffd3e6be.htm" />
+  <HelpKINode Title="ProjectInstaller class" Url="html/767dfe58-a40d-394b-5159-ccb0d2f9a8b9.htm" />
+  <HelpKINode Title="ProjectInstaller class" Url="html/b3dfebfa-1543-7a7c-e7ec-a259b8146c95.htm" />
+  <HelpKINode Title="ProjectInstaller class">
+    <HelpKINode Title="about ProjectInstaller class" Url="html/b3dfebfa-1543-7a7c-e7ec-a259b8146c95.htm" />
+    <HelpKINode Title="all members" Url="html/767dfe58-a40d-394b-5159-ccb0d2f9a8b9.htm" />
+    <HelpKINode Title="constructor" Url="html/0509cb9f-582c-f1b9-39f3-524e1b93b0ab.htm" />
+    <HelpKINode Title="events" Url="html/ae915b6d-3182-97f5-3107-205e4ae26b03.htm" />
+    <HelpKINode Title="methods" Url="html/93e17ec2-866f-f675-b587-de26f7a19e29.htm" />
+    <HelpKINode Title="properties" Url="html/e7ce4dda-83c8-a894-1cd1-9043b06665d9.htm" />
+  </HelpKINode>
+  <HelpKINode Title="ProjectInstaller.Dispose method" Url="html/d2a8e95a-2687-90fe-5f52-96499a8b3eec.htm" />
+  <HelpKINode Title="ProjectInstaller.ProjectInstaller constructor" Url="html/0509cb9f-582c-f1b9-39f3-524e1b93b0ab.htm" />
+</HelpKI>

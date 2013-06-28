@@ -1,0 +1,50 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "webservice", "http://localhost/StreamingService/webservice", "{92194CA7-30B6-434F-AAB4-439785D000BA}"
+	ProjectSection(WebsiteProperties) = preProject
+		UseIISExpress = "false"
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.0"
+		Debug.AspNetCompiler.VirtualPath = "/webservice"
+		Debug.AspNetCompiler.PhysicalPath = "webservice\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\webservice\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/webservice"
+		Release.AspNetCompiler.PhysicalPath = "webservice\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\webservice\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		SlnRelativePath = "webservice\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+		Debug|Any CPU = Debug|Any CPU
+		Debug|Mixed Platforms = Debug|Mixed Platforms
+		Release|.NET = Release|.NET
+		Release|Any CPU = Release|Any CPU
+		Release|Mixed Platforms = Release|Mixed Platforms
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Debug|.NET.ActiveCfg = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Release|.NET.ActiveCfg = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Release|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{92194CA7-30B6-434F-AAB4-439785D000BA}.Release|Mixed Platforms.Build.0 = Debug|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

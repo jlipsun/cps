@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<HelpTOC>
+
+  <HelpTOCNode Id="35a0701b-cccc-4fd0-8c07-9bfc9686e73d" Title="FtpToSharePoint Namespace" Url="html/1676d5c3-11be-ae98-b57a-a1b1a5fa22cc.htm">
+    <HelpTOCNode Id="fc36db88-2583-47dd-bb43-e74292a8bf97" Title="FtpToSpService Class" Url="html/c247fef1-c77d-9174-8a3b-8d0a3e85b102.htm">
+      <HelpTOCNode Title="FtpToSpService Members" Url="html/41385bfc-4241-2318-b4a2-604948182928.htm" />
+      <HelpTOCNode Title="FtpToSpService Constructor " Url="html/1049143a-c61e-0843-c2ba-e4b8744511d3.htm" />
+      <HelpTOCNode Id="ec508bef-e191-48ed-8a77-82331655d115" Title="FtpToSpService Methods" Url="html/55b67584-1172-bee8-cb47-91b4bc7b50c4.htm">
+        <HelpTOCNode Title="addToSpList Method " Url="html/2bbf68cf-8df1-d7cc-8193-93da24638469.htm" />
+        <HelpTOCNode Id="b91739e4-182d-467a-a3e1-9330dfc8298a" Title="Dispose Method " Url="html/cc442ba0-b732-f8b1-45bb-a2e20bfd8386.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/c6329ec3-1dee-0772-cf44-c5b85751ea0b.htm" />
+        </HelpTOCNode>
+        <HelpTOCNode Title="OnContinue Method " Url="html/6d01eba2-f8c5-f666-15e0-4706700ea9b6.htm" />
+        <HelpTOCNode Title="OnPause Method " Url="html/0d307dd7-7689-d721-d697-448a2a753bb3.htm" />
+        <HelpTOCNode Title="OnStart Method " Url="html/ec14cd3c-2f02-03fc-de68-efaa2a4fa5a4.htm" />
+        <HelpTOCNode Title="OnStop Method " Url="html/2403ed89-befc-aa1d-e4e4-4619ffd3e6be.htm" />
+      </HelpTOCNode>
+      <HelpTOCNode Title="FtpToSpService Properties" Url="html/c7614ced-cafc-7655-4973-c518e660f7dd.htm" />
+      <HelpTOCNode Title="FtpToSpService Events" Url="html/bc4fd5e8-dcb1-b90a-39c2-1249cb563457.htm" />
+    </HelpTOCNode>
+    <HelpTOCNode Id="eecb4a83-7b02-40e5-a33f-993e6e16b697" Title="ProjectInstaller Class" Url="html/b3dfebfa-1543-7a7c-e7ec-a259b8146c95.htm">
+      <HelpTOCNode Title="ProjectInstaller Members" Url="html/767dfe58-a40d-394b-5159-ccb0d2f9a8b9.htm" />
+      <HelpTOCNode Title="ProjectInstaller Constructor " Url="html/0509cb9f-582c-f1b9-39f3-524e1b93b0ab.htm" />
+      <HelpTOCNode Id="742b6fcb-65cc-4347-89b3-3252a91905c6" Title="ProjectInstaller Methods" Url="html/93e17ec2-866f-f675-b587-de26f7a19e29.htm">
+        <HelpTOCNode Id="978ea07a-26a3-4a34-824e-6c7d60229e61" Title="Dispose Method " Url="html/d2a8e95a-2687-90fe-5f52-96499a8b3eec.htm">
+          <HelpTOCNode Title="Dispose Method (Boolean)" Url="html/940df37f-9fce-f82a-a3f6-f6ba4879e1f1.htm" />
+        </HelpTOCNode>
+      </HelpTOCNode>
+      <HelpTOCNode Title="ProjectInstaller Properties" Url="html/e7ce4dda-83c8-a894-1cd1-9043b06665d9.htm" />
+      <HelpTOCNode Title="ProjectInstaller Events" Url="html/ae915b6d-3182-97f5-3107-205e4ae26b03.htm" />
+    </HelpTOCNode>
+  </HelpTOCNode>
+</HelpTOC>

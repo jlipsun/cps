@@ -1,0 +1,19 @@
+c:\users\kevin\documents\visual studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\bin\Debug\FtpToSharePoint.exe.config
+c:\users\kevin\documents\visual studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\bin\Debug\FtpToSharePoint.exe
+c:\users\kevin\documents\visual studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\bin\Debug\FtpToSharePoint.pdb
+c:\users\kevin\documents\visual studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.FtpToSpService.resources
+c:\users\kevin\documents\visual studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.ProjectInstaller.resources
+c:\users\kevin\documents\visual studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.csproj.GenerateResource.Cache
+c:\users\kevin\documents\visual studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.exe
+c:\users\kevin\documents\visual studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.pdb
+\\Vboxsvr\496\FtpToSharePoint\FtpToSharePoint\bin\Debug\FtpToSharePoint.exe.config
+\\Vboxsvr\496\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.exe
+\\Vboxsvr\496\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\bin\Debug\FtpToSharePoint.exe.config
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\bin\Debug\FtpToSharePoint.exe
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\bin\Debug\FtpToSharePoint.pdb
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.FtpToSpService.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.ProjectInstaller.resources
+C:\Users\Administrator\Documents\Visual Studio 2010\Projects\FtpToSharePoint\FtpToSharePoint\obj\x86\Debug\FtpToSharePoint.csproj.GenerateResource.Cache
